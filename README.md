@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Wasim Khan!](https://github.com/wasimkhan33/)
 
-### Glad to see you here! &nbsp
+### Glad to see you here!
 
 I'm a graduate in Computer Science 🎓 from Amravati University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
@@ -22,4 +22,4 @@ Specific fields of interest include Data Science, Machine learning, Cloud operat
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
-Thank You
+### Thank You
