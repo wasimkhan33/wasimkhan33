@@ -11,8 +11,8 @@ Specific fields of interest include Data Science, Machine learning, Cloud operat
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently looking for job opportunities in Data Science Domain
-- 🌱 I’m currently learning Full Stack Data Science
+- 🔭 &nbsp; I’m currently looking for job opportunities in Data Science Domain
+- 🌱 &nbsp; I’m currently learning Full Stack Data Science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wasimkhan33).
 - 📫 &nbsp; How to reach me: waseem3378@gmail.com.
 
